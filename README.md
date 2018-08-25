@@ -8,7 +8,7 @@ A curated list of awesome software for firefox extension.
     - [Password managers](#password-managers)
     - [Productivity](#productivity)
     - [Developer Tools](#developer-tools)
-    - [Ad blockers](#ad-blockers)
+    - [Blockers](#blockers)
     - [Downloader](#downloader)
     - [Smarter Shopping](#smarter-shopping)
     - [Fun](#fun)
@@ -29,6 +29,8 @@ A curated list of awesome software for firefox extension.
 * [Tab2QR](https://addons.mozilla.org/en-US/firefox/addon/tab2qr) - Send the page you are currently viewing to your mobile device. QR codes are generated instantly in browser and never leave your computer. 
 * [Screenshot Pro](https://addons.mozilla.org/en-US/firefox/addon/screenshot-tools/) - Capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.
 * [Microsoft Office Online](https://addons.mozilla.org/en-US/firefox/addon/microsoft-office-extension/) - View, edit, and create Office files in your browser.
+* [URL Shortener (goo.gl)](https://addons.mozilla.org/en-US/firefox/addon/url-shortener-goo-gl/) - Shortern the page/selected URL
+Tired of copying the URL and going to a website to short it. Then this is the extension for you. Just click the extension to shorten the current page URL or by right clicking on a link.
 
 ## Developer Tools
 * [Font Finder](https://addons.mozilla.org/en-US/firefox/addon/font-inspect) - An easy-to-use font inspector to get CSS styles of the selected element.
@@ -38,13 +40,15 @@ A curated list of awesome software for firefox extension.
 * [Octotree](https://addons.mozilla.org/en-US/firefox/addon/octotree/) - Add-on to display GitHub code in tree format.
 * [SeoQuake SEO extension](https://addons.mozilla.org/en-US/firefox/addon/seoquake-seo-extension/) - Accelerate your SEO efforts on the fly. SEOquake is a free plugin for browsers that provides you with key SEO metrics for a specific page, along with other useful tools such as SEO Audit and many others.
 * [ColorZilla](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies...
+* [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) - React Developer Tools is a tool that allows you to inspect a React tree, including the component hierarchy, props, state, and more. To get started, just open the Firefox devtools and switch to the React tab.
 
-## Ad blockers
+## Blockers
 * [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) - Finally, an efficient blocker. Easy on CPU and memory.
 * [AdBlocker for YouTube](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-youtube) - Removes all annoying Ads from YouTube.
 * [AdBlock for Firefox](https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox) - The most popular ad blocker for Chrome and Safari, now available for Firefox! Block all advertisements on all web pages, even Facebook, Youtube, and Hulu. Browse faster, too!
 * [Ghostery](https://addons.mozilla.org/en-US/firefox/addon/ghostery) - Ghostery is a powerful privacy extension. Block ads, stop trackers and speed up websites.
+* [Porn Blocker](https://addons.mozilla.org/en-US/firefox/addon/porn-blocker/) - Blocks access to websites with adult content. The easiest way to protect your children and your family against porn.
 
 ## Downloader
 * [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper) - The easy way to download and convert Web videos from hundreds of YouTube-like sites.
