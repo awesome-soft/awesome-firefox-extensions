@@ -36,6 +36,8 @@ A curated list of awesome software for firefox extension.
 * [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois) - Displays country flag of website's server location, Whois and Geo info on a browser addressbar icon.
 * [JSON Lite](https://addons.mozilla.org/en-US/firefox/addon/json-lite/) - Fast JSON viewer - highlights, shows items count/size, handles large files.
 * [Octotree](https://addons.mozilla.org/en-US/firefox/addon/octotree/) - Add-on to display GitHub code in tree format.
+* [SeoQuake SEO extension](https://addons.mozilla.org/en-US/firefox/addon/seoquake-seo-extension/) - Accelerate your SEO efforts on the fly. SEOquake is a free plugin for browsers that provides you with key SEO metrics for a specific page, along with other useful tools such as SEO Audit and many others.
+* [ColorZilla](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies...
 
 ## Ad blockers
 * [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
