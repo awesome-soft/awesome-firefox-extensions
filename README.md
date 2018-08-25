@@ -11,6 +11,7 @@ A curated list of awesome software for firefox extension.
     - [Ad blockers](#ad-blockers)
     - [Downloader](#downloader)
     - [Smarter Shopping](#smarter-shopping)
+    - [Fun](#fun)
   
 ## Password managers
 * [KeePass Tusk](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk) - Tusk adds KeePass functionality to your browser. It does not require a KeePass desktop application to be installed on your PC.
@@ -46,3 +47,6 @@ A curated list of awesome software for firefox extension.
 
 ## Smarter Shopping
 * [Honey](https://addons.mozilla.org/en-US/firefox/addon/honey) - Automatically find and try coupon codes with 1-click. Works at thousands of stores in the US, Canada, Australia, India and the UK.
+
+## Fun
+* [Emoji Cheatsheet](https://addons.mozilla.org/en-US/firefox/addon/emoji-cheatsheet) - A reference for the codes to generate Emojis on popular sites like GitHub or Basecamp and Unicode characters for Twitter and Facebook.
