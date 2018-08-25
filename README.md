@@ -1,9 +1,9 @@
-#  Awesome Soft for firefox extension
+# Awesome Soft for firefox extension
 
 A curated list of awesome software for firefox extension.
 
 ### Toc
-- [ Awesome Soft for firefox extension](#%EF%A3%BF-awesome-soft-for-firefox-extension)
+- [Awesome Soft for firefox extension](#awesome-soft-for-firefox-extension)
         - [Toc](#toc)
     - [Password managers](#password-managers)
     - [Productivity](#productivity)
