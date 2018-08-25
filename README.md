@@ -27,7 +27,7 @@ A curated list of awesome software for firefox extension.
 * [Tab2QR](https://addons.mozilla.org/en-US/firefox/addon/tab2qr) - Send the page you are currently viewing to your mobile device. QR codes are generated instantly in browser and never leave your computer. 
 
 ## Developer Tools
-*[Font Finder](https://addons.mozilla.org/en-US/firefox/addon/font-inspect) - An easy-to-use font inspector to get CSS styles of the selected element.
+* [Font Finder](https://addons.mozilla.org/en-US/firefox/addon/font-inspect) - An easy-to-use font inspector to get CSS styles of the selected element.
 * [IP Address and Domain Information](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info) - The Ultimate online investigation tool! See detailed information about every IP Address, Domain Name and Provider.
 * [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois) - Displays country flag of website's server location, Whois and Geo info on a browser addressbar icon.
 * [JSON Lite](https://addons.mozilla.org/en-US/firefox/addon/json-lite/) - Fast JSON viewer - highlights, shows items count/size, handles large files.
