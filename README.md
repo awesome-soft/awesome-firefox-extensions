@@ -26,6 +26,7 @@ A curated list of awesome software for firefox extension.
 * [Turn Off the Lights](https://addons.mozilla.org/en-US/firefox/addon/turn-off-the-lights) - The entire page will be fading to dark, so you can watch the videos as if you were in the cinema. Works for YouTube™ and Beyond.
 * [Tomato Clock](https://addons.mozilla.org/en-US/firefox/addon/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
 * [Tab2QR](https://addons.mozilla.org/en-US/firefox/addon/tab2qr) - Send the page you are currently viewing to your mobile device. QR codes are generated instantly in browser and never leave your computer. 
+* [Screenshot Pro](https://addons.mozilla.org/en-US/firefox/addon/screenshot-tools/) - Capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.
 
 ## Developer Tools
 * [Font Finder](https://addons.mozilla.org/en-US/firefox/addon/font-inspect) - An easy-to-use font inspector to get CSS styles of the selected element.
