@@ -23,16 +23,19 @@ A curated list of awesome software for firefox extension.
 * [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard) - FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities. For a simpler tool and less advanced configuration options, please use FoxyProxy Basic.
 * [Grammarly for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1) - Grammarly will help you communicate more effectively. As you type, Grammarly flags mistakes and helps you make sure your messages, documents, and social media posts are clear, mistake-free, and impactful.
 * [To Google Translate](https://addons.mozilla.org/en-US/firefox/addon/to-google-translate) - Right-click on a section of text and click on Translate icon next to it to translate or listen it to your language.
+* [ydwd](https://addons.mozilla.org/en-US/firefox/addon/ydwd) - Chinese <-> English word query or translation via Youdao's API.
 * [Turn Off the Lights](https://addons.mozilla.org/en-US/firefox/addon/turn-off-the-lights) - The entire page will be fading to dark, so you can watch the videos as if you were in the cinema. Works for YouTube™ and Beyond.
 * [Tomato Clock](https://addons.mozilla.org/en-US/firefox/addon/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
 * [Tab2QR](https://addons.mozilla.org/en-US/firefox/addon/tab2qr) - Send the page you are currently viewing to your mobile device. QR codes are generated instantly in browser and never leave your computer. 
 * [Screenshot Pro](https://addons.mozilla.org/en-US/firefox/addon/screenshot-tools/) - Capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.
+* [Microsoft Office Online](https://addons.mozilla.org/en-US/firefox/addon/microsoft-office-extension/) - View, edit, and create Office files in your browser.
 
 ## Developer Tools
 * [Font Finder](https://addons.mozilla.org/en-US/firefox/addon/font-inspect) - An easy-to-use font inspector to get CSS styles of the selected element.
 * [IP Address and Domain Information](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info) - The Ultimate online investigation tool! See detailed information about every IP Address, Domain Name and Provider.
 * [Country Flags & IP Whois](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois) - Displays country flag of website's server location, Whois and Geo info on a browser addressbar icon.
 * [JSON Lite](https://addons.mozilla.org/en-US/firefox/addon/json-lite/) - Fast JSON viewer - highlights, shows items count/size, handles large files.
+* [Octotree](https://addons.mozilla.org/en-US/firefox/addon/octotree/) - Add-on to display GitHub code in tree format.
 
 ## Ad blockers
 * [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
@@ -51,3 +54,4 @@ A curated list of awesome software for firefox extension.
 
 ## Fun
 * [Emoji Cheatsheet](https://addons.mozilla.org/en-US/firefox/addon/emoji-cheatsheet) - A reference for the codes to generate Emojis on popular sites like GitHub or Basecamp and Unicode characters for Twitter and Facebook.
+* [2048 in Popup](https://addons.mozilla.org/en-US/firefox/addon/_2048_/) - Play 2048 anytime you want, it's always in your browser!
