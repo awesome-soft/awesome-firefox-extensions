@@ -31,6 +31,7 @@ A curated list of awesome software for firefox extension.
 * [Microsoft Office Online](https://addons.mozilla.org/en-US/firefox/addon/microsoft-office-extension/) - View, edit, and create Office files in your browser.
 * [URL Shortener (goo.gl)](https://addons.mozilla.org/en-US/firefox/addon/url-shortener-goo-gl/) - Shortern the page/selected URL
 Tired of copying the URL and going to a website to short it. Then this is the extension for you. Just click the extension to shorten the current page URL or by right clicking on a link.
+* [Gmail™ Notifier](https://addons.mozilla.org/en-US/firefox/addon/gmail-notifier-restartless/) - Multiple account (or label) Gmail notifier (without storing passwords).
 
 ## Developer Tools
 * [Font Finder](https://addons.mozilla.org/en-US/firefox/addon/font-inspect) - An easy-to-use font inspector to get CSS styles of the selected element.
@@ -41,6 +42,7 @@ Tired of copying the URL and going to a website to short it. Then this is the ex
 * [SeoQuake SEO extension](https://addons.mozilla.org/en-US/firefox/addon/seoquake-seo-extension/) - Accelerate your SEO efforts on the fly. SEOquake is a free plugin for browsers that provides you with key SEO metrics for a specific page, along with other useful tools such as SEO Audit and many others.
 * [ColorZilla](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies...
 * [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) - React Developer Tools is a tool that allows you to inspect a React tree, including the component hierarchy, props, state, and more. To get started, just open the Firefox devtools and switch to the React tab.
+* [xPath Finder](https://addons.mozilla.org/en-US/firefox/addon/xpath_finder/) - Plugin to get the elements xPath.
 
 ## Blockers
 * [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus) - Blocks annoying video ads on YouTube, Facebook ads, banners and much more.
