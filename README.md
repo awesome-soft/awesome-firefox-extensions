@@ -45,4 +45,4 @@ A curated list of awesome software for firefox extension.
 * [Download all Images](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension) - a customizable extension to save the images from the current tab page.
 
 ## Smarter Shopping
-*[Honey](https://addons.mozilla.org/en-US/firefox/addon/honey) - Automatically find and try coupon codes with 1-click. Works at thousands of stores in the US, Canada, Australia, India and the UK.
+* [Honey](https://addons.mozilla.org/en-US/firefox/addon/honey) - Automatically find and try coupon codes with 1-click. Works at thousands of stores in the US, Canada, Australia, India and the UK.
