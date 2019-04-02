@@ -32,6 +32,7 @@ A curated list of awesome software for firefox extension.
 * [URL Shortener (goo.gl)](https://addons.mozilla.org/en-US/firefox/addon/url-shortener-goo-gl/) - Shortern the page/selected URL
 Tired of copying the URL and going to a website to short it. Then this is the extension for you. Just click the extension to shorten the current page URL or by right clicking on a link.
 * [Gmail™ Notifier](https://addons.mozilla.org/en-US/firefox/addon/gmail-notifier-restartless/) - Multiple account (or label) Gmail notifier (without storing passwords).
+* [Taskade](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/) - Team Task, Notes and Chat. All-in-one productivity workspace.
 
 ## Developer Tools
 * [Font Finder](https://addons.mozilla.org/en-US/firefox/addon/font-inspect) - An easy-to-use font inspector to get CSS styles of the selected element.
