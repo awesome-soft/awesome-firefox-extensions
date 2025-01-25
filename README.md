@@ -58,9 +58,6 @@ Tired of copying the URL and going to a website to short it. Then this is the ex
 * [Video Downloader Prime](https://addons.mozilla.org/en-US/firefox/addon/video-downloader-prime) - Easily download most popular video formats.
 * [Download all Images](https://addons.mozilla.org/en-US/firefox/addon/save-all-images-webextension) - a customizable extension to save the images from the current tab page.
 
-## Smarter Shopping
-* [Honey](https://addons.mozilla.org/en-US/firefox/addon/honey) - Automatically find and try coupon codes with 1-click. Works at thousands of stores in the US, Canada, Australia, India and the UK.
-
 ## Fun
 * [Emoji Cheatsheet](https://addons.mozilla.org/en-US/firefox/addon/emoji-cheatsheet) - A reference for the codes to generate Emojis on popular sites like GitHub or Basecamp and Unicode characters for Twitter and Facebook.
 * [2048 in Popup](https://addons.mozilla.org/en-US/firefox/addon/_2048_/) - Play 2048 anytime you want, it's always in your browser!
