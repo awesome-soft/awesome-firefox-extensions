@@ -60,6 +60,7 @@ Tired of copying the URL and going to a website to short it. Then this is the ex
 
 ## Smarter Shopping
 * [Honey](https://addons.mozilla.org/en-US/firefox/addon/honey) - Automatically find and try coupon codes with 1-click. Works at thousands of stores in the US, Canada, Australia, India and the UK.
+* [ShrinkWatch EU](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu) - Shows the price per kg or litre on EU grocery shops and warns when a pack shrinks for the same price.
 
 ## Fun
 * [Emoji Cheatsheet](https://addons.mozilla.org/en-US/firefox/addon/emoji-cheatsheet) - A reference for the codes to generate Emojis on popular sites like GitHub or Basecamp and Unicode characters for Twitter and Facebook.
